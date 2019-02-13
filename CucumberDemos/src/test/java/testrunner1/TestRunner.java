@@ -8,6 +8,6 @@ import cucumber.api.CucumberOptions;
 @CucumberOptions(features="C:\\Users\\s.prakash.seetha\\eclipse-workspace\\CucumberDemos\\src\\test"
 	,glue= {"stepdefinitions1"
 	})				
-public class TestRunnerDemoLogin {
+public class TestRunner{
 
 }
